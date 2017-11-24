@@ -1,3 +1,3 @@
 # Master Data Science
 
-First entry into Master Data Science repository.
+My first entry into the Master Data Science repository.
